@@ -1,0 +1,22 @@
+﻿
+.qv-object-testing tr {
+	margin: 3px;
+	padding: 4px;
+	border-top: 1px solid rgb(45, 45, 45);
+	border-left: 1px solid rgb(45, 45, 45);
+	border-bottom: 1px solid rgb(45, 45, 45);
+	border-right: 1px solid rgb(45, 45, 45);
+	text-overflow: ellipsis;
+	vertical-align: middle;
+	cursor: default;
+	font-size: 12px;
+	font-style: bold;
+	
+}
+.qv-object-testing tr.yellow {
+background-color: rgb(38, 201, 30);
+}
+.qv-object-testing tr.blue {
+background-color: rgb(205, 205, 205);
+}
+
